@@ -1,7 +1,7 @@
-# Ookla Speed Test API Python Script
+# Ookla Speed Test Library Python Script
 
 ## Overview
-This Python script utilizes the **Ookla Speed Test API** to measure your internet connection speed. It conducts speed tests over three iterations and provides download/upload speeds with further readings such as ping, latency, server location, packet hops, server location, server isp, user connection method and user isp then display them and print them in a csv file.
+This Python script utilizes the **Ookla Speed Test Library** to measure your internet connection speed. It conducts speed tests over three iterations and provides download/upload speeds with further readings such as ping, latency, server location, packet hops, server location, server isp, user connection method and user isp then display them and print them in a csv file.
 
 
 
